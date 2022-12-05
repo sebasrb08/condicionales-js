@@ -39,8 +39,10 @@ switch (num){
         break
     case 9:
         console.log("es impar")
+        break
     case 10:
-        console.log("es par")        
+        console.log("es par")
+        break        
 }
 
 console.log("ejercicio 3\n")
@@ -73,10 +75,13 @@ switch (num5){
         break
     case 9:
         console.log("nueve")
+        break
     case 10:
         console.log("diez")  
+        break
     default:
         console.log('error,el numero no esta en el rango')
+        break
       
 }
 console.log("digite el ejercicio 4")
